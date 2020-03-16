@@ -9,7 +9,7 @@ import io.qameta.allure.Epic;
 import org.testng.annotations.Test;
 
 @Epic(value = "Entity Status")
-public class EntityStatusTest extends BaseTest {
+public class SampleTest extends BaseTest {
 
     @Group(value = {TestGroup.SMOKE, TestGroup.REGRESSION})
     @Tag(value = {TestGroup.FEATURE_1, TestGroup.STATUS})
