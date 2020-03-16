@@ -1,0 +1,17 @@
+<suite name="Smoke MDF tests">
+    <listeners>
+        <listener class-name="com.taf.sample.framework.test_dev.listeners.AnnotationTransformer"/>
+    </listeners>
+    <test name="Test Suite Name">
+        <groups>
+            <run>
+                <include name="SMOKE"/>
+                <exclude name="DEBUG"/>
+            </run>
+        </groups>
+
+        <packages>
+            <package name="com.taf.sample.*"/>
+        </packages>
+    </test>
+</suite>
