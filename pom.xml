@@ -20,7 +20,7 @@
         <testng.version>6.14.3</testng.version>
         <lombok.version>1.18.6</lombok.version>
         <rest.assured.version>3.3.0</rest.assured.version>
-        <jackson.version>2.9.10</jackson.version>
+        <jackson.version>2.9.10.3</jackson.version>
         <sshd.core.version>1.4.0</sshd.core.version>
         <jsch.version>0.1.55</jsch.version>
         <csveed.version>0.6.0</csveed.version>
