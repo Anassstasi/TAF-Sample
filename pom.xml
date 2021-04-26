@@ -27,7 +27,7 @@
         <opencsv.version>4.1</opencsv.version>
         <allure.version>2.12.1</allure.version>
         <aspectj.version>1.9.4</aspectj.version>
-        <commons.version>2.6</commons.version>
+        <commons.version>2.7</commons.version>
         <awaitility.version>3.1.6</awaitility.version>
         <ojdbc.version>11.2.0.3</ojdbc.version>
         <faker.version>1.0.1</faker.version>
